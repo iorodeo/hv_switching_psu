@@ -1,2 +1,10 @@
 U1   MAX1771 Step-up DC-DC controller  Digikey MAX1771CPA+-ND 8-DIP (0.3")
      TO220 vertical heat sink, Digikey A10764-ND
+
+C1, C1 0.1uF ceramic capacitor, Digikey 445-4805-ND
+
+
+
+PCB, SOCKET, 4MM, RED   Manufacturer: MULTICOMP Newark Part Number: 80P3616 Manufacturer Part No: A-2.107-R
+PCB, SOCKET, 4MM, BLACK Manufacturer: MULTICOMP Newark Part Number: 80P3613 Manufacturer Part No: A-2.107-B
+
