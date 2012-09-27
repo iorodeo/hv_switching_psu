@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Wed 26 Sep 2012 02:10:32 PM PDT
+
+BeginCmp
+TimeStamp = /50622181;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5062216E;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622184;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622169;
+Reference = C4;
+ValeurCmp = 100uF,_20V;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5062216C;
+Reference = C5;
+ValeurCmp = 4.7uF,_250V;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5062217E;
+Reference = C6;
+ValeurCmp = 100nF,_250V;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /506226AA;
+Reference = D1;
+ValeurCmp = ES2F;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /506223C6;
+Reference = L1;
+ValeurCmp = 100uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622201;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = DCJACK_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /506224F0;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622205;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622C5E;
+Reference = R1;
+ValeurCmp = 0.050;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622CFF;
+Reference = R2;
+ValeurCmp = 1.5M;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622D01;
+Reference = R3;
+ValeurCmp = 15K;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622DAA;
+Reference = RV1;
+ValeurCmp = 50K;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /506223F0;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = slide_switch;
+EndCmp
+
+BeginCmp
+TimeStamp = /50622BF8;
+Reference = T1;
+ValeurCmp = IRF644PBF;
+IdModule  = TO220_VERT_MOD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5062213B;
+Reference = U1;
+ValeurCmp = MAX1771;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe

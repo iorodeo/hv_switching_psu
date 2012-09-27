@@ -1,0 +1,6 @@
+U1   MAX1771 Step-up DC-DC controller  Digikey MAX1771CPA+-ND 8-DIP (0.3")
+     TO220 vertical heat sink, Digikey A10764-ND
+
+C1, C1 0.1uF ceramic capacitor, Digikey 445-4805-ND
+
+

@@ -1,0 +1,137 @@
+# EESchema Netlist Version 1.1 created  Wed 26 Sep 2012 02:10:32 PM PDT
+(
+ ( /50622181 C1 C1 100nF
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /5062216E $noname$ C2 10uF
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /50622184 C1 C3 100nF
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /50622169 $noname$ C4 100uF,_20V
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /5062216C $noname$ C5 4.7uF,_250V
+  ( 1 /HV )
+  ( 2 GND )
+ )
+ ( /5062217E $noname$ C6 100nF,_250V
+  ( 1 /HV )
+  ( 2 GND )
+ )
+ ( /506226AA $noname$ D1 ES2F
+  ( 1 N-000011 )
+  ( 2 /HV )
+ )
+ ( /506223C6 $noname$ L1 100uH
+  ( 1 N-000011 )
+  ( 2 N-000010 )
+ )
+ ( /50622201 DCJACK_2PIN P1 CONN_2
+  ( 1 /PWR )
+  ( 2 GND )
+ )
+ ( /506224F0 PIN_ARRAY_2X1 P2 CONN_2
+  ( 1 GND )
+  ( 2 /SHDN )
+ )
+ ( /50622205 $noname$ P3 CONN_2
+  ( 1 /HV )
+  ( 2 GND )
+ )
+ ( /50622C5E $noname$ R1 0.050
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /50622CFF $noname$ R2 1.5M
+  ( 1 /HV )
+  ( 2 N-000009 )
+ )
+ ( /50622D01 $noname$ R3 15K
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /50622DAA $noname$ RV1 50K
+  ( 1 N-000009 )
+  ( 2 N-000008 )
+  ( 3 N-000008 )
+ )
+ ( /506223F0 slide_switch SW1 SWITCH_INV
+  ( 1 N-000010 )
+  ( 2 /PWR )
+  ( 3 GND )
+ )
+ ( /50622BF8 TO220_VERT_MOD T1 IRF644PBF
+  ( 1 N-000006 )
+  ( 2 N-000003 )
+  ( 3 N-000011 )
+ )
+ ( /5062213B DIP-8__300 U1 MAX1771
+  ( 1 N-000003 )
+  ( 2 N-000010 )
+  ( 3 N-000009 )
+  ( 4 /SHDN )
+  ( 5 N-000001 )
+  ( 6 GND )
+  ( 7 GND )
+  ( 8 N-000006 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C5
+ CP*
+ SM*
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}
