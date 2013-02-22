@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Wed 20 Feb 2013 02:52:05 PM PST
+PCBNEW-BOARD Version 1 date Wed 20 Feb 2013 12:00:26 PM PST
 
 # Created by Pcbnew(2011-nov-30)-testing
 
@@ -9,8 +9,8 @@ LayerCount 2
 EnabledLayers 1FFF8001
 Links 37
 NoConn 0
-Di 33808 26721 59514 65037
-Ndraw 7
+Di 33761 31420 58422 65037
+Ndraw 5
 Ntrack 90
 Nzone 0
 BoardThickness 630
@@ -60,7 +60,7 @@ PadDrill 1200
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 4700 4700
 VisibleElements FFFFFFBF
-PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory gerber_v1.1/))
+PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory gerber_v1.0/))
 $EndSETUP
 
 $EQUIPOT
@@ -283,7 +283,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE DIP-8__300
 $MODULE DCJACK_2PIN
-Po 39500 37800 1800 15 512424A2 50E77150 ~~
+Po 39370 37795 1800 15 512424A2 50E77150 ~~
 Li DCJACK_2PIN
 Sc 50E77150
 AR /50622201
@@ -911,32 +911,6 @@ Ne 4 "GND"
 Po 0 0
 $EndPAD
 $EndMODULE MOUNT_HOLE_4_40_GND
-$COTATION
-Ge 0 24 0
-Va 33600
-Te "3.3600 in"
-Po 57239 48200 600 800 120 2700 1
-Sb 0 56599 31400 56599 65000 120
-Sd 0 54900 65000 57879 65000 120
-Sg 0 54900 31400 57879 31400 120
-S1 0 56599 65000 56369 64557 120
-S2 0 56599 65000 56829 64557 120
-S3 0 56599 31400 56369 31843 120
-S4 0 56599 31400 56829 31843 120
-$endCOTATION
-$COTATION
-Ge 0 24 0
-Va 21100
-Te "2.1100 in"
-Po 44450 27461 600 800 120 -0 1
-Sb 0 33900 28101 55000 28101 120
-Sd 0 55000 31500 55000 26821 120
-Sg 0 33900 31500 33900 26821 120
-S1 0 55000 28101 54557 28331 120
-S2 0 55000 28101 54557 27871 120
-S3 0 33900 28101 34343 28331 120
-S4 0 33900 28101 34343 27871 120
-$endCOTATION
 $TEXTPCB
 Te "IO Rodeo Inc."
 nl "Electrophoresis Power Supply v 1.1"

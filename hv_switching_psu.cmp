@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Wed 26 Sep 2012 02:10:32 PM PDT
+Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Tue 19 Feb 2013 06:45:00 PM PST
 
 BeginCmp
 TimeStamp = /50622181;
@@ -11,7 +11,7 @@ BeginCmp
 TimeStamp = /5062216E;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = ;
+IdModule  = CAPPOL;
 EndCmp
 
 BeginCmp
@@ -25,35 +25,35 @@ BeginCmp
 TimeStamp = /50622169;
 Reference = C4;
 ValeurCmp = 100uF,_20V;
-IdModule  = ;
+IdModule  = CAPPOL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5062216C;
 Reference = C5;
 ValeurCmp = 4.7uF,_250V;
-IdModule  = ;
+IdModule  = C1V5;
 EndCmp
 
 BeginCmp
 TimeStamp = /5062217E;
 Reference = C6;
 ValeurCmp = 100nF,_250V;
-IdModule  = ;
+IdModule  = C2;
 EndCmp
 
 BeginCmp
 TimeStamp = /506226AA;
 Reference = D1;
 ValeurCmp = ES2F;
-IdModule  = ;
+IdModule  = D5;
 EndCmp
 
 BeginCmp
 TimeStamp = /506223C6;
 Reference = L1;
 ValeurCmp = 100uH;
-IdModule  = ;
+IdModule  = INDUCTOR_COIL;
 EndCmp
 
 BeginCmp
@@ -74,35 +74,42 @@ BeginCmp
 TimeStamp = /50622205;
 Reference = P3;
 ValeurCmp = CONN_2;
-IdModule  = ;
+IdModule  = BANANA_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /51243742;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = MOUNT_HOLE_4_40_GND;
 EndCmp
 
 BeginCmp
 TimeStamp = /50622C5E;
 Reference = R1;
-ValeurCmp = 0.050;
-IdModule  = ;
+ValeurCmp = 0.10;
+IdModule  = R5;
 EndCmp
 
 BeginCmp
 TimeStamp = /50622CFF;
 Reference = R2;
-ValeurCmp = 1.5M;
-IdModule  = ;
+ValeurCmp = 2M;
+IdModule  = R7;
 EndCmp
 
 BeginCmp
 TimeStamp = /50622D01;
 Reference = R3;
-ValeurCmp = 15K;
-IdModule  = ;
+ValeurCmp = 18K;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /50622DAA;
 Reference = RV1;
 ValeurCmp = 50K;
-IdModule  = ;
+IdModule  = POT_EVUF2A;
 EndCmp
 
 BeginCmp

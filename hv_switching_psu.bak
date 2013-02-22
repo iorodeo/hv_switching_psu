@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 26 Sep 2012 02:14:51 PM PDT
+EESchema Schematic File Version 2  date Tue 19 Feb 2013 06:37:00 PM PST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,11 +34,11 @@ LIBS:irf644pbf
 LIBS:hv_switching_psu-cache
 EELAYER 25  0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "26 sep 2012"
+Date "20 feb 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -237,7 +237,7 @@ L R R3
 U 1 1 50622D01
 P 8900 3650
 F 0 "R3" V 8980 3650 50  0000 C CNN
-F 1 "15K" V 8900 3650 50  0000 C CNN
+F 1 "18K" V 8900 3650 50  0000 C CNN
 	1    8900 3650
 	1    0    0    -1  
 $EndComp
@@ -246,7 +246,7 @@ L R R2
 U 1 1 50622CFF
 P 8900 2000
 F 0 "R2" V 8980 2000 50  0000 C CNN
-F 1 "1.5M" V 8900 2000 50  0000 C CNN
+F 1 "2M" V 8900 2000 50  0000 C CNN
 	1    8900 2000
 	1    0    0    -1  
 $EndComp
@@ -494,6 +494,26 @@ P 5100 3000
 F 0 "U1" H 4700 3450 60  0000 C CNN
 F 1 "MAX1771" H 5450 3450 60  0000 C CNN
 	1    5100 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P4
+U 1 1 51243742
+P 2000 3600
+F 0 "P4" H 2080 3600 40  0000 L CNN
+F 1 "CONN_1" H 2000 3655 30  0001 C CNN
+	1    2000 3600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 3750 2000 3900
+$Comp
+L GND #PWR018
+U 1 1 51243792
+P 2000 3900
+F 0 "#PWR018" H 2000 3900 30  0001 C CNN
+F 1 "GND" H 2000 3830 30  0001 C CNN
+	1    2000 3900
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
