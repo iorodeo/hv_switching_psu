@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2011-nov-30)-testing date = Tue 19 Feb 2013 06:45:00 PM PST
+Cmp-Mod V01 Created by CvPcb (2013-feb-26)-testing date = Mon 22 Apr 2013 04:05:26 PM PDT
 
 BeginCmp
 TimeStamp = /50622181;
@@ -24,21 +24,21 @@ EndCmp
 BeginCmp
 TimeStamp = /50622169;
 Reference = C4;
-ValeurCmp = 100uF,_20V;
+ValeurCmp = 100uF, 20V;
 IdModule  = CAPPOL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5062216C;
 Reference = C5;
-ValeurCmp = 4.7uF,_250V;
+ValeurCmp = 4.7uF, 250V;
 IdModule  = C1V5;
 EndCmp
 
 BeginCmp
 TimeStamp = /5062217E;
 Reference = C6;
-ValeurCmp = 100nF,_250V;
+ValeurCmp = 100nF, 250V;
 IdModule  = C2;
 EndCmp
 

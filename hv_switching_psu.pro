@@ -1,8 +1,6 @@
-update=Tue 19 Feb 2013 06:42:32 PM PST
+update=Mon 22 Apr 2013 11:58:42 AM PDT
 version=1
-last_client=pcbnew
-[general]
-version=1
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -88,3 +86,5 @@ LibName14=INDUCTOR_COIL
 LibName15=BANANA_JACK
 LibName16=POT_EVUF2A
 LibName17=MOUNT_HOLE_4_40_GND
+[general]
+version=1
