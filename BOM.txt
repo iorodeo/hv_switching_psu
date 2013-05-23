@@ -9,14 +9,14 @@ C2       1     10uF, 250V capacitor        Digikey   P5334-ND
 C4       1     100uF, 50V capacitor        Digikey   P15369CT-ND	
 C5       1     4.7uF, 250V capacitor       Digikey   493-1414-ND	
 C6       1     100nF, 250V capacitor       Digikey   P10967-ND	
-D1       1     ES2F	Diode                  Digikey   EGP20G-E3/54GICT-ND	
+D1       1     ES2F Diode                  Digikey   EGP20G-E3/54GICT-ND	
 L1       1     100uH power inductor        Digikey   M8271-ND	
 P1       1     DC Jack, 2.1mm              Jameco    137673
 P2       1     2x1 pin array               Digikey   SAM1031-50-ND
 P3       2     banana jacks                Newark    80P3613 & 80P3616	
 R1       1     0.01 ohm resistor           Digikey   LVRA-.01RCT-ND	
 R2       1     1 M resistor                Digikey   1MGBCT-ND	
-R3       1     10 K	resistor               Digikey   A106016CT-ND	
+R3       1     10 K resistor               Digikey   A106016CT-ND	
 RV1      1     50 K Rotary potentiometer   Digikey   P3C3503-ND	
 SW1      1     slide switch                Digikey   CKC5102-ND	
 T1       1     IRF644 transistor (FET)     Digikey   IRF644PBF-ND	
@@ -34,7 +34,7 @@ Qty  Description                                   Vendor      PN
 4	 1/4” long, 4-40 round standoff	               McMaster    93330A431
 4	 1” long, 4-40 round standoff	               McMaster    93330A439
 12	 1/4” long 4-40 machine screws	               McMaster    91249A105
-4	 3/16” long, 4-40 machine screws	           McMaster    91249A102
+4	 3/16” long, 4-40 machine screws               McMaster    91249A102
 
 
 
