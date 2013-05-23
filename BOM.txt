@@ -30,7 +30,7 @@ Enclosure hardware
 Qty  Description                                   Vendor      PN                  
 ----------------------------------------------------------------------------------
 
-1    Knob for mounting onto the potentiometer      Digikey     226-2092-ND
+1    Knob for mounting onto 50K potentiometer      Digikey     226-2092-ND
 4	 1/4” long, 4-40 round standoff	               McMaster    93330A431
 4	 1” long, 4-40 round standoff	               McMaster    93330A439
 12	 1/4” long 4-40 machine screws	               McMaster    91249A105
