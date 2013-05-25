@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 24 May 2013 06:33:11 PM PDT
+EESchema Schematic File Version 2  date Fri 24 May 2013 06:48:56 PM PDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -195,7 +195,7 @@ F 3 "" H 3950 1400 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 10850 1450 2    60   ~ 0
-35-150V
+25-100V
 Text Label 10400 1600 2    60   ~ 0
 HV
 $Comp
@@ -448,8 +448,8 @@ F 3 "" H 5450 2400 60  0001 C CNN
 	1    5450 2400
 	1    0    0    -1  
 $EndComp
-Text Notes 1400 1800 0    60   ~ 0
-9-16V
+Text Notes 1550 1850 0    60   ~ 0
+15V
 Text Label 2250 1700 0    60   ~ 0
 PWR
 $Comp
