@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 22 Apr 2013 05:00:30 PM PDT
+EESchema Schematic File Version 2  date Fri 24 May 2013 06:30:06 PM PDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "23 apr 2013"
+Date "25 may 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -194,8 +194,6 @@ F 3 "" H 3950 1400 60  0001 C CNN
 	1    3950 1400
 	1    0    0    -1  
 $EndComp
-Text Notes 3550 6550 2    60   ~ 0
-Based on design by Nick de Smith\nhttp://www.desmith.net/NMdS/Electronics/NixiePSU.html
 Text Notes 10850 1450 2    60   ~ 0
 35-150V
 Text Label 10400 1600 2    60   ~ 0
@@ -249,7 +247,7 @@ L R R3
 U 1 1 50622D01
 P 8900 3650
 F 0 "R3" V 8980 3650 50  0000 C CNN
-F 1 "10K" V 8900 3650 50  0000 C CNN
+F 1 "15K" V 8900 3650 50  0000 C CNN
 F 2 "" H 8900 3650 60  0001 C CNN
 F 3 "" H 8900 3650 60  0001 C CNN
 	1    8900 3650
@@ -295,7 +293,7 @@ L R R1
 U 1 1 50622C5E
 P 6800 4200
 F 0 "R1" V 6880 4200 50  0000 C CNN
-F 1 "0.03" V 6800 4200 50  0000 C CNN
+F 1 "0.01" V 6800 4200 50  0000 C CNN
 F 2 "" H 6800 4200 60  0001 C CNN
 F 3 "" H 6800 4200 60  0001 C CNN
 	1    6800 4200
