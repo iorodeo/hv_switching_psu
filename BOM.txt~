@@ -16,7 +16,7 @@ P2       1     2x1 pin array               Digikey   SAM1031-50-ND
 P3       2     banana jacks                Newark    80P3613 & 80P3616	
 R1       1     0.01 ohm resistor           Digikey   LVRA-.01RCT-ND	
 R2       1     1 M resistor                Digikey   1MGBCT-ND	
-R3       1     15 K resistor               Digikey   WCT-MD	
+R3       1     15 K resistor               Digikey   15KWCT-MD	
 RV1      1     50 K Rotary potentiometer   Digikey   P3C3503-ND	
 SW1      1     slide switch                Digikey   CKC5102-ND	
 T1       1     IRF644 transistor (FET)     Digikey   IRF644PBF-ND	
