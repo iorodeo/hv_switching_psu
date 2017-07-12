@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 24 May 2013 06:48:56 PM PDT
+EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "25 may 2013"
+Date "21 jan 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -105,10 +105,6 @@ Wire Wire Line
 	4350 2200 4350 2400
 Wire Wire Line
 	5450 2200 5450 2400
-Wire Wire Line
-	3650 2400 3650 1800
-Wire Wire Line
-	3650 1800 3550 1800
 Wire Wire Line
 	2250 1900 2550 1900
 Wire Wire Line
@@ -405,17 +401,6 @@ F 3 "" H 4350 2400 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR015
-U 1 1 50622416
-P 3650 2400
-F 0 "#PWR015" H 3650 2400 30  0001 C CNN
-F 1 "GND" H 3650 2330 30  0001 C CNN
-F 2 "" H 3650 2400 60  0001 C CNN
-F 3 "" H 3650 2400 60  0001 C CNN
-	1    3650 2400
-	1    0    0    -1  
-$EndComp
-$Comp
 L SWITCH_INV SW1
 U 1 1 506223F0
 P 3050 1700
@@ -586,4 +571,5 @@ F 3 "" H 2000 3900 60  0001 C CNN
 	1    2000 3900
 	1    0    0    -1  
 $EndComp
+NoConn ~ 3550 1800
 $EndSCHEMATC
